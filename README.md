@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Syed Imaduddin**
-- 👀 I’m interested in **Data Analysis, Data Science, AI & Machine Learning**
+- 👀 I’m interested in **Data Analytics, Data Science, AI & Machine Learning**
 - 🌱 I’m currently learning **Data Science, AI & Machine Learning**
 - 💞️ I’m looking to collaborate on **Data Science & Analytics Projects**
 - 📫 Reach me on my email id **simaduddin7@outlook.com**
